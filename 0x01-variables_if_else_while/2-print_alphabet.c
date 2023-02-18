@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlid.h>
 
 /**
  * main -  Entry point
