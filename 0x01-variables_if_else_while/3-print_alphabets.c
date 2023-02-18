@@ -14,14 +14,17 @@ int main(void)
 	{
 		putchar(c);
 		c++;
-		c = 'A';
-		while (c <= 'A')
-		{
-			putchar(c);
-			c++;
-		}
-		putchar('\n');
-		return (0);
 	}
+
+	c = 'A';
+
+	while (c <= 'A')
+	{
+		putchar(c);
+		c++;
+	}
+	putchar('\n');
+	return (0);
 }
+
 
