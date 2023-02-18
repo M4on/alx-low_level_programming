@@ -3,7 +3,7 @@
 /**
  *  main - Entry point
  *  Description: Program to print a-z except 'e' and 'q'
- *  Return; 0
+ *  Return: 0
  */
 
 int main(void)
@@ -16,6 +16,7 @@ int main(void)
 		{
 			putchar(c);
 		}
+		c++;
 	}
 	putchar('\n');
 	return (0);
