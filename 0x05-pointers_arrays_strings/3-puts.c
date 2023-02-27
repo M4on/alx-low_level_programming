@@ -1,6 +1,5 @@
 #include "main.h"
-
-
+#include <unistd.h>
 
 /**
  * _puts - Prints a string to stdout.
@@ -9,8 +8,8 @@
 void _puts(char *str)
 {
 	while (*str)
-		_put(*str++);
+		_putchar(*str++);
 
-	_put('\n');
+	_putchar('\n');
 }
 
