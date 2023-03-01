@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-	/**
-	 * main () - a magic function
-	 * program to print 98 and \n
-	 */
+int main(void)/* main - Entry point */
 {
 	int n;
 	int a[5];
