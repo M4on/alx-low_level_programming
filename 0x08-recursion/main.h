@@ -7,6 +7,7 @@
  *       used in the 0x08-recursion directory.
  */
 
+int is_prime_number(int);
 int _putchar(char c);
 void _puts_recursion(char *s);
 void _print_rev_recursion(char *s);
