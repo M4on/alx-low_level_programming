@@ -1,7 +1,12 @@
+/**
+ * Author: Emmanuel Akpan
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
 /**
+ * Author: Emmanuel Akpan
  * main - Entry Point
  * @argc: arguments
  * @argv: array pointing to arguments
